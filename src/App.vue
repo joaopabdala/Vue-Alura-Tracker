@@ -40,7 +40,9 @@ export default defineComponent({
 </script>
 
 <style>
-
+a{
+  color:#ddd
+}
 .lista{
   padding: 1.25rem;
 
